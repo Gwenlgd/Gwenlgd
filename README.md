@@ -1,7 +1,8 @@
 
 # Hi there 👋
 
-I’m (** Gwen**) , a web developer with a focus on creating intuitive and dynamic web experiences.
+### I’m **Gwen**
+A web developer with a focus on creating intuitive and dynamic web experiences.
 
 ## Tech Stack
 
@@ -18,7 +19,8 @@ Version Control: ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-ba
 Software: ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Contact
-![Linkedin](https://www.linkedin.com/in/gwenaelle-legrand/)(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) Website
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwenaelle-legrand/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white)](https://gwenaellelegrand.com/)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwenlgd&hide=contribs,prs)
